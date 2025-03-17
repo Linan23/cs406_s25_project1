@@ -1,0 +1,5 @@
+ls -l /tmp
+pwd
+cd /tmp
+ls
+exit
